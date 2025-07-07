@@ -76,11 +76,11 @@ git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://gi
 cd YOUR_REPOSITORY_NAME
 
 3. Install Dependencies
-I've listed all the required packages in the requirements.txt file. You can install them all with a single command:
-
-pip install -r requirements.txt
-
-(Note: If you don't have a requirements.txt file, you can create one or install the packages manually: pip install opencv-python mediapipe pyautogui numpy)
+pip install 
+pip install opencv-python 
+pip install mediapipe 
+pip install pyautogui 
+pip install numpy
 
 ▶️ How to Run
 Once the setup is complete, just run the following command in your terminal:

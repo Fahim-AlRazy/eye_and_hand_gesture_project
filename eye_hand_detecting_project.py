@@ -26,7 +26,7 @@ BUTTON_TEXT_COLOR = (255, 255, 255)
 HIGHLIGHT_COLOR = (0, 255, 0)
 CANVAS_BG = np.zeros((720, 1280, 3), np.uint8)
 
-# Drawing & Color Palette
+# Drawing & Color 
 COLOR_PALETTE = [
     (0, 255, 0),      # Green
     (255, 0, 0),      # Blue
@@ -43,7 +43,7 @@ ERASER_COLOR = (0, 0, 0)
 BRUSH_THICKNESS = 15
 ERASER_THICKNESS = 50
 
-# --- State & Timing Variables ---
+# State & Timing Variables 
 current_mode = EYE_TRACKER_MODE
 current_color_index = 0
 DRAW_COLOR = COLOR_PALETTE[current_color_index]
