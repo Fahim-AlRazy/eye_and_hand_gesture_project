@@ -3,7 +3,6 @@
 AI Virtual Control 👁️🤚✨
 Welcome to my AI Virtual Control project! This is a Python application I built that transforms your webcam into a futuristic controller, allowing you to manipulate your computer's cursor and draw on a virtual canvas using just your eye movements and hand gestures.
 
-(I recommend replacing the image above with a GIF showcasing the app's features!)
 
 🚀 Features
 I've packed this application with several cool features:
